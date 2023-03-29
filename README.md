@@ -4,7 +4,7 @@ as well as create backups of your keybinds.
 
 ## Getting Started
 To use EDDT, simply download the `EDDirectoryToolkit.exe` file from the latest release.  
-There is an English and a German version. The program will display a menu of options that you can choose from.
+The program will display a menu of options that you can choose from.
 
 ## Usage
 EDDT provides the following options:
