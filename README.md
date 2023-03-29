@@ -3,7 +3,8 @@ EDDT is a small command-line program that allows you to quickly navigate to comm
 
 ## Getting Started
 To use EDDT, simply download the `EDDirectoryToolkit.exe` file from the latest release.  
-The program will display a menu of options that you can choose from.
+The program will display a menu of options that you can choose from.  
+If you can't run the program, try allowing it in your antivirus.
 
 ## Usage
 EDDT provides the following options:
