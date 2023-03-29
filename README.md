@@ -1,6 +1,5 @@
 # Elite Dangerous Directory Toolkit (EDDT)
-EDDT is a small command-line program that allows you to quickly navigate to commonly used directories for the game Elite Dangerous,  
-as well as create backups of your keybinds.
+EDDT is a small command-line program that allows you to quickly navigate to commonly used directories for the game Elite Dangerous, as well as create backups of your keybinds.
 
 ## Getting Started
 To use EDDT, simply download the `EDDirectoryToolkit.exe` file from the latest release.  
