@@ -6,6 +6,8 @@ To use EDDT, simply download the `EDDirectoryToolkit.exe` file from the latest r
 The program will display a menu of options that you can choose from.  
 If you can't run the program, try allowing it in your antivirus.
 
+.NET 7 or above is required for this tool to run.
+
 ## Usage
 EDDT provides the following options:
 
